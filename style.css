@@ -1,0 +1,233 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: white
+}
+
+h1 {
+  font-style: italic;
+  color: #ff1493;
+  font-size: 50px;
+}
+
+h2{
+  font-style: italic;
+  color: #ff1493;
+  text-align: center;
+  font-size: 25px
+}
+
+#media{
+  font-style: italic;
+  color: #ff1493;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 18px
+}
+
+h3{
+  font-style: italic;
+  color: #ff1493
+}
+
+#wrapper{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 500px 500px;
+}
+
+#one{
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
+
+#two{
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
+
+#three{
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
+
+#four{
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+
+#five{
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+
+#six{
+  grid-column-start: 3;
+  grid-column-end: 4;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+
+#apps{
+  height: ;
+  width: ;
+}
+
+#logo{
+  height: ;
+  width: ;
+}
+
+#food{
+  height: ;
+  width: ;
+}
+
+#music{
+  height: ;
+  width: ;
+}
+
+#pink{
+  height: ;
+  width: ;
+}
+
+#dream{
+  height: ;
+  width: ;
+}
+
+#carousel{
+  margin-bottom: 10px
+}
+
+.btn{
+  background-color: pink;
+  border: pink
+}
+
+.btn:hover{
+  background-color: #ff69b4;
+  border: black
+}
+
+#account{
+  background-color: #ff1493;
+  margin-left: 550px
+}
+
+#account:hover{
+  background-color: #ff69b4
+}
+
+#insta{
+  background-color: #ff1493;
+}
+
+#insta:hover{
+  background-color: #ff69b4
+}
+
+#tweetBox{
+  background: rgb{240,240,240};
+  border: solid 1px;
+  margin: 10px;
+  padding: 10px;
+  color: Black
+}
+
+#postTweet{
+  background-color: #ff1493;
+  border: pink
+}
+
+#postTweet:hover{
+  background-color: #ff69b4;
+  border: black
+}
+
+#fun{
+  font-style: italic;
+  color: #ff1493;
+  font-size: 35px;
+  text-align: center;
+  text-decoration: underline
+}
+
+#tweet{
+  margin-left: 520px
+}
+
+#stop{
+  font-style: italic;
+  color: #ff1493;
+  font-size: 35px;
+  text-decoration: underline;
+  text-align: center
+}
+
+.safety{
+  font-size: 25px;
+  font-align;
+}
+
+#date{
+  font-style: italic;
+  color: #ff1493;
+  font-size: 35px;
+  text-decoration: underline;
+  text-align: center
+}
+
+#check{
+  font-style: italic;
+  color: #ff1493;
+  font-size: 35px;
+  text-decoration: underline;
+  text-align: center
+}
+
+#stats{
+  background-color: #ff1493;
+  margin-left: 600px
+}
+
+#stats:hover{
+  background-color: #ff69b4;
+}
+
+#case{
+  text-align: center;
+  font-size: 25px
+}
+
+#recovering{
+  text-align: center;
+  font-size: 25px
+}
+
+#dead{
+  text-align: center;
+  font-size: 25px
+}
+
+#story{
+  font-style: italic;
+  color: #ff1493;
+  font-size: 35px;
+  text-decoration: underline;
+  text-align: center
+}
